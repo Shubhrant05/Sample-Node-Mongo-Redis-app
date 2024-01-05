@@ -90,4 +90,7 @@ Body :
     "description": "Todo's Description"
 }
 ```
+
+![Record run](./img/record.png)
+
 *Voila!! Our testcases has passed and you created your first set of test cases 🌟*

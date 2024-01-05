@@ -1,0 +1,13 @@
+version: api.keploy.io/v1beta1
+kind: Generic
+name: mocks
+spec:
+    metadata: {}
+    genericrequests:
+        - origin: ""
+          message: []
+    genericresponses:
+        - origin: ""
+          message: []
+    reqtimestampmock: 2024-01-05T17:18:03.490007367+05:30
+    restimestampmock: 2024-01-05T17:18:03.490062042+05:30
