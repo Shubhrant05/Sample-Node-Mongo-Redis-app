@@ -93,4 +93,4 @@ Body :
 
 ![Record run](./img/record.png)
 
-*Voila!! Our testcases has passed and you created your first set of test cases 🌟*
+*Voila!! Created your first set of test cases 🌟*
